@@ -43,7 +43,7 @@
 
 ### Articles
 
-- [Intro to Solana Jupiter API ](https://medium.com/liberal-arts-magazine/intro-to-solana-jupiter-api-for-swapping-tokens-with-code-d395127a200c)
+- [Intro to Solana Jupiter API](https://medium.com/liberal-arts-magazine/intro-to-solana-jupiter-api-for-swapping-tokens-with-code-d395127a200c)
 - [Building a Solana Swap API with Node.js: A Comprehensive Guide](https://medium.com/@0xjesus/building-a-solana-swap-api-with-node-js-a-comprehensive-guide-55333389c0f6)
 - [Jupiter as a liquidity infrastructure](https://0xgreythorn.medium.com/jupiter-boosting-solanas-liquidity-infrastructure-25aec1c41a85)
 - [Trade any token on Solana including meme coins in your code](https://dev.to/desprdo/trade-any-token-on-solana-including-meme-coins-in-your-code-3lj3)
@@ -54,3 +54,7 @@
 - [Jupiter Arbitrage bot](https://github.com/ARBProtocol/solana-jupiter-bot)
 - [Jupiter Python SDK](https://github.com/0xTaoDev/jupiter-python-sdk)
 - [NextJS Jupiter Swap Widget](https://github.com/kamalbuilds/Jupiter-swap-widget)
+- [TX parser](https://github.com/0xjeffro/tx-parser)
+- [NextJS DEX example with Jupiter Swap](https://github.com/YadlaMani/gible)
+- [Python swap example](https://github.com/OkarFabianTheWise/JupiterSwapScript)
+- [Swap with CPI example](https://github.com/Benjamin-cup/jupiter-cpi)
