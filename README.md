@@ -49,6 +49,9 @@
 - [Trade any token on Solana including meme coins in your code](https://dev.to/desprdo/trade-any-token-on-solana-including-meme-coins-in-your-code-3lj3)
 - [Jupiter Swap Solana with Typescript tutorial](https://medium.com/liberal-arts-magazine/jupiter-swap-solana-with-typescript-code-385d72eba7f9)
 - [QuickNode Jupiter Swap API + trading bot](https://gist.ly/youtube-summarizer/creating-a-trading-bot-with-quicknode-jupiter-swap-api)
+- [Building on Solana: Helius RPCs tutorial](https://medium.com/solana-dev-tips/building-on-solana-helius-rpcs-tutorial-solana-development-platform-part-1-b53a1fc66d4c)
+- [QuickNode Trading bot tutorial](https://www.quicknode.com/guides/solana-development/3rd-party-integrations/jupiter-api-trading-bot)
+- [QuickNode Jupiter Terminal widget tutorial](https://www.quicknode.com/guides/solana-development/3rd-party-integrations/jupiter-terminal)
 
 
 ### Community projects & Code examples
@@ -62,3 +65,10 @@
 - [Swap with CPI example](https://github.com/Benjamin-cup/jupiter-cpi)
 - [Typescript swap example](https://github.com/Dolphins-Lab/Jupiter-Swap-Example)
 - [CPI example](https://github.com/Kelvin-1013/jupiter-swap)
+- [Nozomi swap example](https://github.com/temporalxyz/nozomi-examples/tree/main/typescript/jup-swap-example)
+- [Jupiter Arbitrage bot](https://github.com/ChainBuff/sol-arb-bot)
+
+### Videos
+- [Building trading bot on Jupiter (Moon dev)](https://www.youtube.com/watch?v=OmY_K0eLO9c)
+- [Jupiter Swap UI with create-solana-dapp](https://www.youtube.com/watch?v=-LzvOSgR5DU)
+- [Solana Dev course: Swapping tokens](https://www.youtube.com/watch?v=zai8CX6OwTg)
