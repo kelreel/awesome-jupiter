@@ -1,7 +1,9 @@
 ## Awesome Jupiter
 
 <div align="center">
-  <img src="./jup.svg" width="150" height="150">
+  <a href="https://jup.ag/" target="_blank">
+    <img src="./jup.svg" width="130" height="130" alt="Jupiter">
+  </a>
 </div>
 
 <br />
